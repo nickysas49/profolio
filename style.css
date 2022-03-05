@@ -34,7 +34,7 @@ body {margin:0;}
   margin: 0;
   display:flex;
   background-color:LightGray;
-  background-image:url("news.png");
+  background-image:url("image/news.png");
   color: whitesmoke;
 } 
  #myimg 
@@ -55,7 +55,7 @@ img{
     margin:0;
     padding:80px 80px;
     font-size:100px;
-    background-image: url("comic.png");
+    background-image: url("image/comic.png");
     background-size: 90%;
     color:black;
     text-shadow: -2px 2px #00e6f6;
@@ -64,7 +64,7 @@ img{
 #myintro{
     padding: 200px 50px;
     color:black;
-    background-image: url("paper.png");
+    background-image: url("image/paper.png");
     background-size: cover;
     box-shadow: 3px 3px black, -1em 0 .4em black;
 }
@@ -121,7 +121,7 @@ h3{
     grid-template-rows: 1fr;
     transition: all 0.1s ease-in;
     background-color:LightGray;
-    background-image:url("paper.png");
+    background-image:url("image/paper.png");
     background-size:cover;
 }
 #skills:hover{
@@ -151,7 +151,7 @@ h3{
     margin: 0;
     display:flex;
     background-color:LightGray;
-    background-image:url("news.png");
+    background-image:url("image/news.png");
     color: whitesmoke;
 } 
 
@@ -160,7 +160,7 @@ h3{
 #map,
 #aha,
 #cardgame{
-    background-image:url("paper.png");
+    background-image:url("image/paper.png");
     background-size:cover;
     width: 300px;
     height: 500px;
